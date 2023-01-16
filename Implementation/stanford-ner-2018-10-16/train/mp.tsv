@@ -1,0 +1,241 @@
+Diabetes	DIAGNOSIS
+Hypertension	DIAGNOSIS
+MRI	PROCEDURE
+Ctscan	PROCEDURE
+Exercise	HABITS
+Smoking	HABITS
+Jogging	HABITS
+Age	VITALS
+Height	VITALS
+Weight	VITALS
+gm	DOSAGE
+tbps	DOSAGE
+crocin	MEDICINE
+Abacavir  	MEDICINE
+Abacavir / dolutegravir / lamivudine (Triumeq®)  	MEDICINE
+Abacavir / lamivudine (Epzicom®)  	MEDICINE
+Acyclovir  	MEDICINE
+Alemtuzumab  	MEDICINE
+Alendronate  	MEDICINE
+Allopurinol  	MEDICINE
+Amifostine  	MEDICINE
+Amikacin s 	MEDICINE
+Aminocaproic Acid  	MEDICINE
+Amitriptyline  	MEDICINE
+Amlodipine  	MEDICINE
+Amoxicillin  	MEDICINE
+Amoxicillin / clavulanic acid  	MEDICINE
+Amphotericin B  	MEDICINE
+Ampicillin  	MEDICINE
+Anti-Inhibitor Coagulant Complex (FEIBA)  	MEDICINE
+Anti-thymocyte globulin  	MEDICINE
+Aprepitant  	MEDICINE
+Asparaginase  	MEDICINE
+Atazanavir (Reyataz®)  	MEDICINE
+Atenolol  	MEDICINE
+Atovaquone  	MEDICINE
+Azithromycin  	MEDICINE
+Baclofen  	MEDICINE
+Bleomycin  	MEDICINE
+Bortezomib  	MEDICINE
+Bosentan  	MEDICINE
+Busulfan  	MEDICINE
+Calcium  	MEDICINE
+Captopril  	MEDICINE
+Carbamazepine  	MEDICINE
+Carboplatin  	MEDICINE
+Carmustine  	MEDICINE
+Cefaclor  	MEDICINE
+Cefepime  	MEDICINE
+Cefixime  	MEDICINE
+Ceftazidime  	MEDICINE
+Cefuroxime  	MEDICINE
+Celecoxib  	MEDICINE
+Cephalexin  	MEDICINE
+Cidofovir  	MEDICINE
+Cisplatin  	MEDICINE
+Cladribine  	MEDICINE
+Clarithromycin  	MEDICINE
+Clindamycin  	MEDICINE
+Clobazam  	MEDICINE
+Clofarabine  	MEDICINE
+Codeine  	MEDICINE
+Crizotinib  	MEDICINE
+Cyclobenzaprine  	MEDICINE
+Cyclophosphamide  	MEDICINE
+Cyclosporine  	MEDICINE
+Cyproheptadine  	MEDICINE
+Cytarabine  	MEDICINE
+Dacarbazine  	MEDICINE
+Dactinomycin  	MEDICINE
+Dapsone  	MEDICINE
+Darunavir (Prezista®)  	MEDICINE
+Dasatinib  	MEDICINE
+Daunorubicin  	MEDICINE
+Deferasirox (Exjade®)  	MEDICINE
+Desmopressin (Stimate®)  	MEDICINE
+Dexamethasone  	MEDICINE
+Diclofenac  	MEDICINE
+Didanosine  	MEDICINE
+Dinutuximab  	MEDICINE
+Dobutamine  	MEDICINE
+Dopamine  	MEDICINE
+Dornase alfa  	MEDICINE
+Doxorubicin  	MEDICINE
+Dronabinol  	MEDICINE
+Efavirenz  	MEDICINE
+Efavirenz / emtricitabine / tenofovir (Atripla®)  	MEDICINE
+Eltrombopag  	MEDICINE
+Elvitegravir / cobicistat / emtricitabine / tenofovir (Stribild®)  	MEDICINE
+Elvitegravir / cobicistat / emtricitabine / tenofovir alafenamide (Genvoya®)  	MEDICINE
+Emicizumab  	MEDICINE
+Emtricitabine (Emtriva®)  	MEDICINE
+Emtricitabine / rilpivirine / tenofovir alafenamide (Odefsey®)  	MEDICINE
+Emtricitabine / tenofovir (Truvada®)  	MEDICINE
+Emtricitabine / tenofovir alafenamide (Descovy®)  	MEDICINE
+Enalapril  	MEDICINE
+Enoxaparin  	MEDICINE
+Erlotinib  	MEDICINE
+Erythromycin  	MEDICINE
+Erythropoietin  	MEDICINE
+Etonogestrel (Nexplanon®)  	MEDICINE
+Etoposide  	MEDICINE
+Etravirine (Intelence®)  	MEDICINE
+Factor IX complex  	MEDICINE
+Factor IX concentrate  	MEDICINE
+Factor VIIa (Recombinant)  	MEDICINE
+Factor VIII (Human) and von Willebrand Factor  	MEDICINE
+Factor VIII (Recombinant)  	MEDICINE
+Famciclovir  	MEDICINE
+Fluconazole  	MEDICINE
+Fludarabine  	MEDICINE
+Fluorouracil  	MEDICINE
+Foscarnet  	MEDICINE
+Furosemide  	MEDICINE
+G-CSF (Filgrastim)  	MEDICINE
+Gabapentin  	MEDICINE
+Ganciclovir  	MEDICINE
+Gefitinib  	MEDICINE
+Gemcitabine  	MEDICINE
+Gemtuzumab ozogamicin  	MEDICINE
+GM-CSF (Sargramostim)  	MEDICINE
+Heparin Lock Flush for children and young adults  	MEDICINE
+Heparin Lock Flush for infants  	MEDICINE
+Hydralazine  	MEDICINE
+Hydrocodone with acetaminophen  	MEDICINE
+Hydrocortisone  	MEDICINE
+Hydromorphone  	MEDICINE
+Hydroxyurea  	MEDICINE
+Hydroxyurea for sickle cell disease  	MEDICINE
+Ifosfamide  	MEDICINE
+Imatinib  	MEDICINE
+Imipenem / cilastatin  	MEDICINE
+Immune globulin  	MEDICINE
+Interferon alfa-2a and alfa-2b  	MEDICINE
+Interferon alfa-2b for melanoma  	MEDICINE
+Interleukin-2 (Aldesleukin) - continuous infusion  	MEDICINE
+Irinotecan  	MEDICINE
+Isotretinoin  	MEDICINE
+Itraconazole  	MEDICINE
+Ketoconazole  	MEDICINE
+L-glutamine  	MEDICINE
+Labetalol  	MEDICINE
+Lamivudine  	MEDICINE
+Leucovorin with high dose methotrexate (HDMTX)  	MEDICINE
+Levothyroxine  	MEDICINE
+Linezolid  	MEDICINE
+Lomustine  	MEDICINE
+Lopinavir / Ritonavir (Kaletra®)  	MEDICINE
+Lorazepam  	MEDICINE
+Magnesium  	MEDICINE
+Maraviroc (Selzentry®)  	MEDICINE
+Mechlorethamine  	MEDICINE
+Megestrol acetate  	MEDICINE
+Meloxicam  	MEDICINE
+Melphalan  	MEDICINE
+Meperidine  	MEDICINE
+Mercaptopurine  	MEDICINE
+Meropenem  	MEDICINE
+Mesna  	MEDICINE
+Methadone  	MEDICINE
+Methotrexate  	MEDICINE
+Methylphenidate  	MEDICINE
+Metronidazole  	MEDICINE
+Micafungin  	MEDICINE
+Mitotane  	MEDICINE
+Mitoxantrone  	MEDICINE
+Modafinil  	MEDICINE
+Morphine  	MEDICINE
+Muromonab – CD3  	MEDICINE
+Mycophenolate mofetil  	MEDICINE
+Nelarabine  	MEDICINE
+Nelfinavir  	MEDICINE
+Neuromuscular blockers  	MEDICINE
+Nevirapine  	MEDICINE
+Norepinephrine  	MEDICINE
+Omeprazole  	MEDICINE
+Ondansetron  	MEDICINE
+Oxycodone  	MEDICINE
+Paclitaxel  	MEDICINE
+Pegfilgrastim  	MEDICINE
+Pemetrexed  	MEDICINE
+Penicillin VK  	MEDICINE
+Pentamidine (inhaled by mouth)  	MEDICINE
+Phenobarbital  	MEDICINE
+Phenytoin  	MEDICINE
+Phosphorus  	MEDICINE
+Posaconazole  	MEDICINE
+Potassium  	MEDICINE
+Prednisone  	MEDICINE
+Probenecid  	MEDICINE
+Procarbazine  	MEDICINE
+Promethazine  	MEDICINE
+Propoxyphene  	MEDICINE
+Raltegravir (Isentress®)  	MEDICINE
+Ranitidine  	MEDICINE
+Rasburicase  	MEDICINE
+Rilpivirine (Edurant®)  	MEDICINE
+Rilpivirine / emtricitabine / tenofovir (Complera®)  	MEDICINE
+Ritonavir  	MEDICINE
+Rituximab  	MEDICINE
+Rivaroxaban  	MEDICINE
+Ruxolitinib  	MEDICINE
+Saquinavir  	MEDICINE
+Sirolimus  	MEDICINE
+Sorafenib  	MEDICINE
+Stavudine  	MEDICINE
+Sucralfate  	MEDICINE
+Sugammadex  	MEDICINE
+Sunitinib  	MEDICINE
+Tacrolimus  	MEDICINE
+Temozolomide  	MEDICINE
+Teniposide  	MEDICINE
+Tenofovir  	MEDICINE
+Thioguanine  	MEDICINE
+Thiotepa  	MEDICINE
+Tobramycin  	MEDICINE
+Topotecan  	MEDICINE
+Tretinoin – applied to the skin  	MEDICINE
+Tretinoin – by mouth  	MEDICINE
+Trimethoprim / sulfamethoxazole  	MEDICINE
+Valproic acid  	MEDICINE
+Vancomycin  	MEDICINE
+Vinblastine  	MEDICINE
+Vincristine  	MEDICINE
+Voriconazole  	MEDICINE
+Vorinostat  	MEDICINE
+Warfarin  	MEDICINE
+Zidovudine	MEDICINE
+Zidovudine / Lamivudine (Combivir®)  	MEDICINE
+Related Links	MEDICINE
+Patient/Family Education Materials 	MEDICINE
+Infection Control Tips 	MEDICINE
+Medicines 	MEDICINE
+MEDminder™ Card 	MEDICINE
+Related LinksClose 	MEDICINE
+Shivani	NAME
+Mohit	NAME
+Harshit	NAME
+Doctor	DOCTOR
+take	VERB
+pill	DOSAGE
